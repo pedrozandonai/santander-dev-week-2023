@@ -1,13 +1,13 @@
-package pedro.zandonai.santanderdevweek2023;
+package pedro.zandonai;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SantanderDevWeek2023Application {
+public class Main {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SantanderDevWeek2023Application.class, args);
+		SpringApplication.run(Main.class, args);
 	}
 
 }
